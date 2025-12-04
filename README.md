@@ -1,1 +1,1 @@
-# python_uebung1
+#  Practice repository for Python exercises and data-oriented projects as a Technical Business Administration student at University of Stuttgart. 
